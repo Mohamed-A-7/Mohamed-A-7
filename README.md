@@ -9,7 +9,7 @@
 </p> 
 
 - 🏢 I'm a Front-End Developer working as a Freelancer.
-- 👨‍💻 As an e-commerce student at Cairo University, I'm passionate about programming, web development, and technology. I am always exploring new technologies to enhance my skills.
+- 👨‍💻 As an e-commerce student at Cairo University, I am passionate about programming and web technologies. I'm always exploring new tools and techniques to enhance my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 
 ### Connect with Me :
@@ -26,8 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-A-7&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
