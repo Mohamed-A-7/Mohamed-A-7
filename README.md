@@ -9,7 +9,7 @@
 </p> 
 
 - 🏢 I'm a Front-End Developer working as a Freelancer.
-- 👨‍💻 As an e-commerce student at Cairo University, I am passionate about programming and web technologies. I'm always exploring new tools and techniques to enhance my skills.
+- 👨‍💻 As an e-commerce student at Cairo University, I’m passionate about programming and web technologies.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 
 ### Connect with Me :
